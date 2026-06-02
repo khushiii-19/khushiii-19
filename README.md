@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Khushi 👋
+
+Currently exploring AI, Machine Learning, Data Science and Python - one concept at a time.
+
+This GitHub profile is where I document what I'm learning and slowly build projects along the way.
+
+Still early in the journey, but excited to keep learning, building and sharing what I discover.
+
+📌 Currently working on: AI: One Concept at a Time
 
 <!--
 **khushiii-19/khushiii-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
